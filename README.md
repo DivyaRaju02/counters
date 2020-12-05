@@ -11,4 +11,4 @@ These are some example counters
 3. 4 Bit grey upcounter
 
 
-4. 
+4. 4 bit johnson counter
