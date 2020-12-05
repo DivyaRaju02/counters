@@ -8,4 +8,7 @@ These are some example counters
 2. N- Bit updowncounter
 
 
-3. 
+3. 4 Bit grey upcounter
+
+
+4. 
