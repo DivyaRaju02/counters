@@ -8,5 +8,5 @@ module n_bit_counter (out,clk,rst,s); // nbit_up_down_counter
       out <= 0;
     else
       out <= (s)?out+1:out-1;
-    end
+  end
 endmodule
